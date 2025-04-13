@@ -1,5 +1,6 @@
 # kingping
-ICMP Ping tool.
+ICMP Ping tool with UI. Can run multiple instances.
+
 
 ![image](https://github.com/user-attachments/assets/22d57b94-733a-4cfb-9707-518fffbe4c19)
 
